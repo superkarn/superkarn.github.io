@@ -5,7 +5,8 @@ title: Resume
 
 ## Contact
 Karn Ratana  
-karn.ratana@gmail.com
+karn.ratana@gmail.com  
+[Stack Overflow Developer Story](https://stackoverflow.com/story/karn.ratana)  
 
 ## Experience
 2016-02 to present  
@@ -13,36 +14,39 @@ karn.ratana@gmail.com
 Xtime, a Cox Automotive company (888) 463-3888 www.xtime.com  
 * Oversee Xtime Inspect (rebranded version of ASR Pro)
     * Including integration into Xtime infrastructure and platform
-* Oversee Dealertrack Mobile Mechanic (iPhone app)
-* Oversee Dealertrack Check-In (iPad app)
-* Manage a fully remote team of 9
+* Oversee Mobile Mechanic (iPhone app)
+* Oversee Check-In (iPad app)
+* Provide technical guidance and direction
+* Manage a remote team of 9
 * Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, JavaScript/jQuery/AngularJS, HTML, CSS
+* .NET, .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
 
 2014-07 to 2016-02  
 **Software Engineering Manager**  
 Dealertrack Technologies (801) 501-7100 www.dealertrack.com (Acquired by Cox Automotive)
-* Oversee Dealertrack Service Pro (rebranded version of ASR Pro)
+* Oversee Service Pro (rebranded version of ASR Pro)
     * Including integration into Dealertrack infrastructure and platform
-* Oversee Dealertrack Mobile Mechanic (iPhone app)
-* Oversee Dealertrack Check-In (iPad app)
-* Manage a fully remote team of 6
+* Oversee Mobile Mechanic (iPhone app)
+* Oversee Check-In (iPad app)
+* Provide technical guidance and direction
+* Manage a remote team of 6
 * Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, JavaScript/jQuery/AngularJS, HTML, CSS
+* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
 
 2012-09 to 2014-07  
 **Chief Technology Officer**  
 ASR Pro (919) 786-9819 www.asrpro.com (Acquired by Dealertrack)
 * Oversee ASR Pro web applications, services, and infrastructure
-* Oversee ASR Pro Mobile Mechanic (iPhone app)
-* Manage a fully remote team of 7
+* Oversee Mobile Mechanic (iPhone app)
+* Provide technical guidance and direction
+* Manage a remote team of 7
 * Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, JavaScript/jQuery/AngularJS, HTML, CSS
+* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
 
 2008-11 to 2012-09  
 **Lead Software Engineer**  
 AutoLoop (877) 580-2010 www.asrpro.com  
-* Develop ASR Pro web applications
+* Develop ASR Pro applications
 * Industry: Auto Dealership
 * .NET, .NET MVC, C#, SQL Server, JavaScript/jQuery, HTML, CSS
 
@@ -57,7 +61,7 @@ Super Stock (904) 565-0066 www.superstock.com
 **Web Developer**  
 Clayton Kendall (888) 799-4757 www.claytonkendall.com  
 * Develop programs connecting third party accounting software with website data
-* Assist in developing website frameworks with customization per client
+* Assist in developing website frameworks with client specific customizations
 * Industry: E-Commerce
 * PHP, MySQL, JavaScript, HTML, CSS
 

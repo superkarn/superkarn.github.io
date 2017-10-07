@@ -11,33 +11,33 @@ karn.ratana@gmail.com
 ## Experience
 2016-02 to present  
 **Software Engineering Mananger**  
-Xtime, a Cox Automotive company (888) 463-3888 www.xtime.com  
-* Oversee Xtime Inspect (rebranded version of ASR Pro)
-    * Data center migration from Dealertrack to Xtime
-    * Transition from SQL Server to Oracle
-    * Database scalability design
+Xtime, a Cox Automotive company (888) 463-3888 www.xtime.com 
 * Manage a remote team of 9 plus outsourced team members
+* Manage Xtime Inspect (rebranded version of ASR Pro)
+    * Transition from SQL Server to Oracle
+    * Scalability designs for database and background services
+    * Integration with Xtime products and infrastructure
 * Industry: Auto Dealership
 * .NET, .NET MVC, C#, SignalR, Hangfire, SQL Server, Oracle, Redis, AWS S3, JavaScript/jQuery/AngularJS/ReactJS, HTML, CSS
 
 2014-07 to 2016-02  
 **Software Engineering Manager**  
 Dealertrack Technologies (801) 501-7100 www.dealertrack.com (Acquired by Cox Automotive)
-* Oversee Service Pro (rebranded version of ASR Pro)
-    * Data center migration from ASR Pro to Dealertrack
-    * Integration with Dealertrack products and infrastructure
 * Manage a remote team of 6 plus outsourced team members
+* Manage Service Pro (rebranded version of ASR Pro)
+    * Integration with Dealertrack products and infrastructure
+    * Integration with third party vendors
 * Industry: Auto Dealership
 * .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
 
 2012-09 to 2014-07  
 **Chief Technology Officer**  
 ASR Pro (919) 786-9819 www.asrpro.com (Acquired by Dealertrack)
-* Oversee ASR Pro web applications, services, and infrastructure
-    * Upgrade applications from ASP.NET web forms to .NET MVC and AngularJS
-    * Application scalability design
-    * Third party vendor integrations
 * Manage a remote team of 7 plus outsourced team members
+* Manage ASR Pro web applications, services, and infrastructure
+    * Upgrade applications from ASP.NET web forms to .NET MVC and AngularJS
+    * Scalability designs for web applications
+    * Integration with third party vendors
 * Industry: Auto Dealership
 * .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
 

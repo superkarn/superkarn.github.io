@@ -11,48 +11,45 @@ karn.ratana@gmail.com
 ## Experience
 2016-02 to present  
 **Software Engineering Mananger**  
-Xtime, a Cox Automotive company (888) 463-3888 www.xtime.com 
-* Manage a remote team of 9 plus outsourced team members
-* Manage Xtime Inspect (rebranded version of ASR Pro)
-    * Transition from SQL Server to Oracle
-    * Scalability designs for database and background services
-    * Integration with Xtime products and infrastructure
-* Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, Hangfire, SQL Server, Oracle, Redis, AWS S3, JavaScript/jQuery/AngularJS/ReactJS, HTML, CSS
+Xtime, a Cox Automotive company (888) 463-3888 xtime.com/xtime-spectrum/inspect
+* Manage a distributed team including hiring, mentoring, and evaluating team members 
+* Manage Xtime Inspect (rebranded version of ASR Pro), major projects include 
+    * Migrate business logic from T-SQL to C#
+    * Shard database and scale background services 
+    * Migrate applications to Xtime data center
+    * Integrate with Xtime products and third party vendors (REST, SOAP, MQ, FTP)
+* .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS/React
 
 2014-07 to 2016-02  
 **Software Engineering Manager**  
 Dealertrack Technologies (801) 501-7100 www.dealertrack.com (Acquired by Cox Automotive)
-* Manage a remote team of 6 plus outsourced team members
-* Manage Service Pro (rebranded version of ASR Pro)
-    * Integration with Dealertrack products and infrastructure
-    * Integration with third party vendors
-* Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
+* Manage a distributed team including hiring, mentoring, and evaluating team members
+* Manage Dealertrack Service Pro (rebranded version of ASR Pro), major projects include 
+    * Migrate applications to Dealertrack data center
+    * Integrate with Dealertrack products and third party vendors
+    * Adopt Scaled Agile Framework
+* .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS
 
 2012-09 to 2014-07  
 **Chief Technology Officer**  
 ASR Pro (919) 786-9819 www.asrpro.com (Acquired by Dealertrack)
-* Manage a remote team of 7 plus outsourced team members
-* Manage ASR Pro web applications, services, and infrastructure
+* Manage a distributed team including hiring, mentoring, and evaluating team members 
+* Manage ASR Pro applications, services, and infrastructure, major projects include
     * Upgrade applications from ASP.NET web forms to .NET MVC and AngularJS
-    * Scalability designs for web applications
-    * Integration with third party vendors
-* Industry: Auto Dealership
-* .NET, .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS, HTML, CSS
+    * Scale web applications
+    * Integrate with third party vendors
+* .NET MVC, C#, SignalR, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS
 
 2008-11 to 2012-09  
 **Lead Software Engineer**  
 AutoLoop (877) 580-2010 www.asrpro.com  
-* Develop ASR Pro applications
-* Industry: Auto Dealership
+* Develop ASR Pro, a digital inspection and service tracking software for auto dealerships
 * .NET, .NET MVC, C#, SQL Server, JavaScript/jQuery, HTML, CSS
 
 2007-01 to 2008-05  
 **Software Engineer**  
 Super Stock (904) 565-0066 www.superstock.com  
-* Convert the company web application from classic ASP to ASP .NET
-* Industry: Stock Photography
+* Convert web application from classic ASP to ASP .NET
 * .NET, C#, VB, SQL Server, JavaScript, HTML, CSS
 
 2005-05 to 2007-01  
@@ -60,7 +57,6 @@ Super Stock (904) 565-0066 www.superstock.com
 Clayton Kendall (888) 799-4757 www.claytonkendall.com  
 * Develop programs connecting third party accounting software with website data
 * Assist in developing website frameworks with client specific customizations
-* Industry: E-Commerce
 * PHP, MySQL, JavaScript, HTML, CSS
 
 ## Education

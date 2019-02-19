@@ -19,7 +19,7 @@ Accomplished software engineering manager with many years working with distribut
 - Provided architectural designs and technical documentations 
 - Full Stack Developer
 - Fluent in C#, JavaScript, SQL Server, Redis
-- AWS, Git, Jenkins
+- AWS, Terraform, Git, Jenkins
 
 
 ## Experience
@@ -29,6 +29,7 @@ Xtime, a Cox Automotive company xtime.com/xtime-spectrum/inspect
 - .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS S3, JavaScript/jQuery/AngularJS/React
 - Continued the development of the digital multipoint inspection and service tracking software
 - Improved scalability and reliability 
+- Migration to AWS
 - Extracted business logic from database layer
 - Consolidated DMS integrations
 

@@ -27,6 +27,7 @@ Accomplished software architect with managerial background.   Spent many years w
 **Software Architect**  
 [Xtime, a Cox Automotive company](https://xtime.com/xtime-spectrum/inspect)  
 - .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS, JavaScript/jQuery/AngularJS/ReactJS
+- Designed and architected multiple concurrent projects:
    - Migration to AWS including CI, automated build, test, deploy
    - Single Authentication
    - Cross applications/platforms chat service

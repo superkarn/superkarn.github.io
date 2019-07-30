@@ -9,7 +9,7 @@ karn.ratana@gmail.com
 [Stack Overflow Developer Story](https://stackoverflow.com/story/karn.ratana)  
 
 
-Accomplished software architect with managerial background.   Spent many years working with distributed teams.  Focused on delivering quality products on schedule, utilizing the best technologies and practices, and helping team members excel.  Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
+Accomplished Lead Technical Architect with managerial background.   Spent many years working with distributed teams.  Focused on delivering quality products on schedule, utilizing the best technologies and practices, and helping team members excel.  Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
 
 
 ## Highlights
@@ -24,7 +24,7 @@ Accomplished software architect with managerial background.   Spent many years w
 
 ## Experience
 2018-02 – present
-**Software Architect**  
+**Lead Technical Architect**  
 [Xtime, a Cox Automotive company](https://xtime.com/xtime-spectrum/inspect)  
 - .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS, JavaScript/jQuery/AngularJS/ReactJS
 - Designed and architected multiple concurrent projects:

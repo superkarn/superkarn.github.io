@@ -23,7 +23,7 @@ Accomplished Software Architect with managerial background.   Spent many years w
 
 
 ## Experience
-2018-02 – present
+2018-02 – present  
 **Lead Technical Architect**  
 [Xtime, a Cox Automotive company](https://xtime.com/xtime-spectrum/inspect)  
 - .NET MVC, C#, SignalR, Hangfire, SQL Server, Redis, AWS, JavaScript/jQuery/AngularJS/ReactJS

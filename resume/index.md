@@ -30,8 +30,8 @@ Accomplished Software Architect with managerial background.   Spent many years w
 - Designed and architected multiple concurrent projects:
    - Migration to AWS including CI, automated build, test, deploy
    - Single Authentication
-   - Cross applications/platforms chat service
-   - Redesigned RESTful API
+   - Cross applications/platforms services
+   - RESTful APIs
    - Various OEM feature requests and integrations
    
 2016-02 to 2018-02  

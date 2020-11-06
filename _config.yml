@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: karn.ratana.info
-email: karn.ratana@gmail.com
+title: Another Software Guy
+author: Karn Ratana
+email: #karn.ratana@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Things about Karn
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +32,11 @@ github_username:  superkarn
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about/index.markdown
+  - resume/index.markdown
+  - contactme/index.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

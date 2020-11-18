@@ -34,7 +34,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about/index.markdown
+  - about me/index.markdown
+  - career/index.markdown
   - resume/index.markdown
   - contactme/index.markdown
 

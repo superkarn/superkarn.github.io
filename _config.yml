@@ -25,14 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Things about Karn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karn.ratana.info" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: superkarn
-github_username:  superkarn
+
 
 # Build settings
 theme: minima
 minima:
   skin: solarized
   date_format: "%Y-%m-%d"
+  social_links:
+    github: superkarn
+    keybase: superkarn
+    linkedin: karn-ratana
+    stackoverflow: superkarn
+    twitter: superkarn
 plugins:
   - jekyll-feed
 

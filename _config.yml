@@ -40,6 +40,9 @@ minima:
     twitter: superkarn
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 header_pages:
   - aboutme/index.markdown

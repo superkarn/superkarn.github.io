@@ -46,6 +46,8 @@ remote_theme: jekyll/minima
 
 header_pages:
 
+home-link:
+
 navbar-links:
   Blog: "https://blog.karn.ratana.info/"
   About Me: "https://karn.ratana.info/aboutme"

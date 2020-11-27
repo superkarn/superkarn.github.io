@@ -45,10 +45,12 @@ plugins:
 remote_theme: jekyll/minima
 
 header_pages:
-  - aboutme/index.markdown
-  - career/index.markdown
-  - resume/index.markdown
-  - contactme/index.markdown
+
+navbar-links:
+  Blog: "https://blog.karn.ratana.info/"
+  About Me: "https://karn.ratana.info/aboutme"
+  Resume: "https://karn.ratana.info/resume"
+  Contact Me: "https://karn.ratana.info/contactme"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

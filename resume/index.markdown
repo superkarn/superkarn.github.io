@@ -3,7 +3,6 @@ layout: default
 title: Resume
 ---
 
-## Contact
 Karn Ratana  
 [Stack Overflow Developer Story](https://stackoverflow.com/story/karn.ratana)  
 

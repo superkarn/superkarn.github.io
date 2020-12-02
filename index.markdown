@@ -6,17 +6,10 @@ layout: default
 custom_css: index
 ---
 
-
-## About Me
-
-<img align="left" width="300" style="margin:10px"
+<img width="300" style="display:block; margin-left:auto; margin-right:auto;"
   src="../assets/me.jpg">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div style="clear: both;"></div>
-<hr />
-
-## Career
 
 <img align="left" width="50" style="margin:0px 10px 0px 0px;"
   src="https://s3.amazonaws.com/sidearm.sites/gatorzone.com/images/responsive/nav_logo.png">

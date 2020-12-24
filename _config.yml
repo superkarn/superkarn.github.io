@@ -50,8 +50,8 @@ home-link:
 
 navbar-links:
   Blog: "https://karntech.wordpress.com/"
-  Resume: "https://karn.ratana.info/resume"
-  Contact Me: "https://karn.ratana.info/contactme"
+  Resume: "/resume"
+  Contact Me: "/contactme"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

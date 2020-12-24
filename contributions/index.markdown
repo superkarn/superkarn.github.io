@@ -4,11 +4,16 @@ title: Contributions
 ---
 
 ## GitHub
-- 2017-11-12 [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted/pull/21)
-- 2017-10-01 [docker/kitematic](https://github.com/docker/kitematic/pull/1479#issuecomment-333352906) (not merged)
-- 2014-02-22 [alexgibson/notify.js](https://github.com/alexgibson/notify.js/pull/9)
-- 2013-03-26 [github/hubot-scripts](https://github.com/github/hubot-scripts/pull/843)
+- 2017-11-12 [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted/pull/21) (PR #21)
+- 2017-10-01 [docker/kitematic](https://github.com/docker/kitematic/pull/1479#issuecomment-333352906) (PR #1479; not merged)
+- 2014-02-22 [alexgibson/notify.js](https://github.com/alexgibson/notify.js/pull/9) (PR #9)
+- 2013-03-26 [github/hubot-scripts](https://github.com/github/hubot-scripts/pull/843) (PR #843)
 
+<!--- 
+- 2019-08-13 [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/issues/3963#issuecomment-520863829) (comment)
+- 2017-11-12 [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted/issues/22) (issue)
+- 2015-12-28 [alexgibson/notify.js](https://github.com/alexgibson/notify.js/pull/47#issuecomment-167626048) (indirectly via nslager)
+-->
 
 ## Stack Overflow
 - 2019-06-11 [Is there a supported way to run post-deploy scripts on AWS Elastic Beanstalk?](https://serverfault.com/questions/842231/is-there-a-supported-way-to-run-post-deploy-scripts-on-aws-elastic-beanstalk/970974#970974)

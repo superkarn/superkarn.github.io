@@ -16,7 +16,6 @@ title: Contributions
 -->
 
 ## Stack Overflow
-- 2020-12-27 [Transform line-by-line values from another table to a string and insert it into NOT IN clause in SQL](https://stackoverflow.com/a/65462785/1398750)
 - 2019-06-11 [Is there a supported way to run post-deploy scripts on AWS Elastic Beanstalk?](https://serverfault.com/questions/842231/is-there-a-supported-way-to-run-post-deploy-scripts-on-aws-elastic-beanstalk/970974#970974)
 - 2019-07-02 [How do i set/retrieve value from dictionary in list?](https://stackoverflow.com/questions/56844831/how-do-i-set-retrieve-value-from-dictionary-in-list/56845507#56845507)
 - 2018-09-27 [proper way to handle data returned by stored procedure in entity](https://stackoverflow.com/questions/52527606/proper-way-to-handle-data-returned-by-stored-procedure-in-entity/52528661#52528661)
@@ -25,3 +24,7 @@ title: Contributions
 - 2017-09-05 [npm ERR! Error: EPERM: operation not permitted](https://stackoverflow.com/questions/45686727/npm-err-error-eperm-operation-not-permitted/46046889#46046889)
 - 2013-12-05 [Image not able to uploaded to Amazon S3 server](https://stackoverflow.com/questions/20285691/image-not-able-to-uploaded-to-amazon-s3-server/20405643#20405643)
 - 2013-02-20 [Are there examples of encryption in nature?](https://biology.stackexchange.com/questions/7281/are-there-examples-of-encryption-in-nature)
+
+<!--- 
+- 2020-12-27 [Transform line-by-line values from another table to a string and insert it into NOT IN clause in SQL](https://stackoverflow.com/a/65462785/1398750)
+-->

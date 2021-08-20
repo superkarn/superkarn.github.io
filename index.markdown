@@ -24,7 +24,7 @@ My first job out of college was a remote PHP web developer position with [Clayto
 In 2007, I joined [SuperStock](https://www.superstock.com/), a stock photography agency, as a software engineer.  I helped update the web application from classic ASP to ASP.NET.
 
 <img align="right" width="50" style="margin:0px 0px 0px 10px;"
-  src="https://www.ycombinator.com/assets/ycdc/ycombinator-logo-b603b0a270e12b1d42b7cca9d4527a9b206adf8293a77f9f3e8b6cb542fcbfa7.png">
+  src="https://www.ycombinator.com/assets/ycdc/ycombinator-logo.png">
 In 2008, I participated in [Y Combinator](https://www.ycombinator.com/)'s Summer '08 batch along with Joel Hoard and Luke Bearden.  Even though our ideas did not pan out, the experience was memorable.  I learned a lot about start ups, and met many interesting people.
 
 <!---

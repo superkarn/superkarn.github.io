@@ -8,6 +8,7 @@ Software that I use and recommend.
 |Free |Source |Name |Description |
 |:----|:----------|:----|:-----------|
 |✓ |[✓](https://sourceforge.net/projects/sevenzip/) |[7-zip](https://www.7-zip.org/) |File archiver |
+|✓ |[✓](http://avidemux.sourceforge.net/) |[Avidemux](http://avidemux.sourceforge.net/) |Video Editor |
 |✓ | |[BareTail](https://baremetalsoft.com/baretail/) |Real-time log file monitor |
 |✓ |[✓](https://github.com/chocolatey/choco) |[Chocolatey](https://chocolatey.org/) |Package manager for Windows |
 |✓ | |[CloudBerry Explorer for Amazon S3](https://www.msp360.com/explorer/windows/amazon-s3.aspx) |AWS S3 browser |

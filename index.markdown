@@ -44,5 +44,9 @@ In 2012, I took on the role of [ASR Pro](https://www.asrpro.com)'s CTO.  I helpe
 In 2014, ASR Pro was acquired by [Dealertrack](https://us.dealertrack.com/).  I switched role to software engineering manager and helped my team through the transition.  ASR Pro was rebranded as Service Pro.  
 
 <img align="right" width="75" style="margin:0px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png">
-In 2016, Dealertrack was acquired by [Cox Automotive](https://www.coxautoinc.com/).  Service Pro was moved under a subsidiary Xtime and rebranded again as [Xtime Inspect](https://xtime.com/xtime-spectrum/inspect/).  In 2018, I transitioned to software architect and shifted my focus back to the technical side.  In 2019, we migrated our infrastructure to AWS.
+  src="https://www.coxautoinc.com/wp-content/themes/coxautoinc/dist/images/logo-brand-stacked.svg">
+In 2016, Dealertrack was acquired by [Cox Automotive](https://www.coxautoinc.com/).  Service Pro was moved under a subsidiary Xtime and rebranded again as [Xtime Inspect](https://xtime.com/xtime-spectrum/inspect/).  In 2018, I transitioned to software architect and shifted my focus back to the technical side.  Since then, I had migrated our infrastructure to AWS, set up disaster recovery plan, and implemented blue/green deployment.
+
+
+<!--<img align="right" width="75" style="margin:0px;"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png">-->

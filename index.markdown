@@ -35,7 +35,7 @@ After Y Combinator, I started working at [AutoLoop](https://www.autoloop.com/). 
 
 <img align="left" width="100" style="margin:0px 10px 0px 0px;"
   src="https://static.asrpro.com/Images/logos/flat-2/production_medium.png">
-In 2012, I took on the role of [ASR Pro](https://www.asrpro.com)'s CTO.  I helped put together a fully distributed engineering team.  We designed and built APIs, improved the system scalability and reliability, and expanded our third party integration.  I also had the opportunity to mentor team members and provide leadership and an environment where they can excel.
+In 2012, I took on the role of [ASR Pro's CTO](https://asrpro.wordpress.com/2013/04/19/new-promotions-at-asr-pro/).  I helped put together a fully distributed engineering team.  We designed and built APIs, improved the system scalability and reliability, and expanded our third party integration.  I also had the opportunity to mentor team members and provide leadership and an environment where they can excel.
 
 <!---
 <img align="right" width="100" 

@@ -28,7 +28,8 @@ url: "https://karn.ratana.info" # the base hostname & protocol for your site, e.
 
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima@7a326eb6df07ee6ee5305cfc1b28f7092037e67d
 minima:
   skin: solarized
   date_format: "%Y-%m-%d"
@@ -36,13 +37,12 @@ minima:
     github: superkarn
     keybase: superkarn
     linkedin: karn-ratana
-    stackoverflow: superkarn
+    stackoverflow: karn-ratana
     twitter: superkarn
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
 
 header_pages:
 
@@ -50,6 +50,7 @@ home-link:
 
 navbar-links:
   Blog: "https://blog.karn.ratana.info/"
+  Photography: "https://blog.karn.ratana.info/photography"
   Resume: "/resume"
   Contact Me: "/contactme"
 

@@ -23,7 +23,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 ## Experience
 2018-02 – present  
 **Lead Technical Architect**  
-[Xtime, a Cox Automotive company](https://xtime.com/xtime-spectrum/inspect)  
+[Cox Automotive](https://www.coxautoinc.com/)  
 - Designed and architected projects
     - Migration to AWS
     - Blue/Green deployment
@@ -36,7 +36,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
    
 2016-02 to 2018-02  
 **Software Engineering Mananger**  
-[Xtime, a Cox Automotive company](https://xtime.com/xtime-spectrum/inspect)  
+[Cox Automotive](https://www.coxautoinc.com/)  
 - Managed a distributed engineering team
 - Guided the team through another acquisition 
 - Collaborated with product managers

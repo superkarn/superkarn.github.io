@@ -4,7 +4,7 @@ title: Resume
 ---
 
 Karn Ratana  
-[Stack Overflow Developer Story](https://stackoverflow.com/story/karn.ratana)  
+[PDF](../assets/resume.pdf)  
 
 
 Accomplished Software Engineer with managerial background.   Spent many years working with distributed teams.  Focused on delivering quality products on schedule, utilizing the best technologies and practices, and helping team members excel.  Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.

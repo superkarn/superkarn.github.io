@@ -21,7 +21,12 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 
 
 ## Experience
-2018-02 – present  
+2022-03 – present  
+**Principal Software Engineer**  
+[Cox Automotive](https://www.coxautoinc.com/)  
+
+
+2018-02 – 2022-03  
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Designed and architected projects
@@ -35,7 +40,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Improve system stability and reliability
    
 2016-02 to 2018-02  
-**Software Engineering Mananger**  
+**Software Engineering Manager**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Managed a distributed engineering team
 - Guided the team through another acquisition 

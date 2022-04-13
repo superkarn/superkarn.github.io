@@ -29,12 +29,13 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 2018-02 – 2022-03  
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
+- Led a distributed engineering team
 - Designed and architected projects
+    - Cross platforms services via APIs and message queues
     - Migration to AWS
     - Blue/Green deployment
     - Disaster recovery plan
     - Single Sign-On Integration
-    - Cross platforms services via APIs and message queues
 - Provided documentations and diagrams
 - Set up and maintained deployment pipeline
 - Improve system stability and reliability

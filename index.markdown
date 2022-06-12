@@ -45,8 +45,8 @@ In 2014, ASR Pro was acquired by [Dealertrack](https://us.dealertrack.com/).  I 
 
 <img align="right" width="75" style="margin:0px;"
   src="https://www.coxautoinc.com/wp-content/themes/coxautoinc/dist/images/logo-brand-stacked.svg">
-In 2016, Dealertrack was acquired by [Cox Automotive](https://www.coxautoinc.com/).  Service Pro was moved under a subsidiary Xtime and rebranded again as [Xtime Inspect](https://xtime.com/xtime-spectrum/inspect/).  In 2018, I transitioned to software architect and shifted my focus back to the technical side.  Since then, I had migrated our infrastructure to AWS, set up disaster recovery plan, and implemented blue/green deployment.
+In 2016, Dealertrack was acquired by [Cox Automotive](https://www.coxautoinc.com/).  Service Pro was moved under a subsidiary Xtime and rebranded again as [Xtime Inspect](https://xtime.com/xtime-spectrum/inspect/).  In 2018, I transitioned to software architect and shifted my focus back to the technical side.  I had migrated our infrastructure to AWS, set up disaster recovery plan, and implemented blue/green deployment.  In the process, I was promoted to Principal Software Engineer.
 
-
-<!--<img align="right" width="75" style="margin:0px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png">-->
+<img align="left" width="100" style="margin:0px 10px 0px 0px;"
+  src="https://d1ewxbznfa539k.cloudfront.net/tophat/s/1d62b3f/indeed.png">
+In 2022, I joined [Indeed](https://www.indeed.com) as a software engineering manager, working on integration with external ATS.

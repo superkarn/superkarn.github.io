@@ -21,12 +21,21 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 
 
 ## Experience
-2022-03 – present  
+2022-05 → Current  
+**Software Engineering Manager**  
+[Indeed](https://www.indeed.com/)  
+- Managed a distributed engineering team 
+- Collaborated with product managers
+- Managed integrations with ATS
+
+2022-03 → 2022-05  
 **Principal Software Engineer**  
 [Cox Automotive](https://www.coxautoinc.com/)  
+- Designed and architected projects
+- Provided documentations and diagrams
+- Improve system stability and reliability
 
-
-2018-02 – 2022-03  
+2018-02 → 2022-03  
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Led a distributed engineering team
@@ -40,7 +49,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Set up and maintained deployment pipeline
 - Improve system stability and reliability
    
-2016-02 to 2018-02  
+2016-02 → 2018-02  
 **Software Engineering Manager**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Managed a distributed engineering team
@@ -50,7 +59,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Consolidated DMS integrations 
 - Moved business logic from database layer into application layer
 
-2014-07 to 2016-02  
+2014-07 → 2016-02  
 **Software Engineering Manager**  
 [Dealertrack Technologies](https://www.dealertrack.com) (Acquired by Cox Automotive)
 - Managed a distributed engineering team 
@@ -58,7 +67,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Improved system monitoring
 - Adopted Scaled Agile process
 
-2012-09 to 2014-07  
+2012-09 → 2014-07  
 **Chief Technology Officer**  
 [ASR Pro](https://www.asrpro.com) (Acquired by Dealertrack)  
 - Built a remote-first culture
@@ -66,20 +75,20 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Designed and architected projects
 - Supervised outsourced engineering teams and contractors
 
-2008-11 to 2012-09  
+2008-11 → 2012-09  
 **Lead Software Engineer**  
 [AutoLoop](https://www.autoloop.com)  
 - Developed a digital multipoint inspection and service tracking software for auto dealerships
 - Created RESTful and SOAP APIs
 - Integrated with third party services
 
-2007-01 to 2008-05  
+2007-01 → 2008-05  
 **Software Engineer**  
 [Super Stock](https://www.superstock.com)  
 - Maintained and improved stock photography ecommerce site
 - Updated web application from classic ASP to ASP .NET
 
-2005-05 to 2007-01  
+2005-05 → 2007-01  
 **Web Developer**  
 [Clayton Kendall](https://www.claytonkendall.com)
 - Maintained and improved branding ecommerce site 

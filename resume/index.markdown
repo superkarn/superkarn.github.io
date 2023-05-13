@@ -11,7 +11,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 
 
 ## Highlights
-- Provide architectural designs and technical documentations 
+- Architectural designs and technical documentations 
 - Full Stack Developer
 - .NET, C#, JavaScript/AngularJS/ReactJS, SQL Server, DynamoDB, Redis
 - AWS, Terraform, Git, Jenkins 
@@ -24,9 +24,13 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Managed a distributed engineering team 
-- Collaborated with product managers
-- Managed integrations with ATS
+- Managed a distributed engineering team working on candidate data transfer both from Indeed to
+Partners and from Partners to Indeed.
+- Led the product from alpha stage to initial general availability stage, growing the number of
+business clients by 16x and delivering 4x increase in monthly data exports within the first 12
+months, with expected 100x increase in monthly data exports in the next 12 months.
+- Redesigned services to be more resilient and scale independently.
+- Incorporated 3-Legged OAuth which increased the market size.
 
 2022-03 → 2022-05  
 **Principal Software Engineer**  

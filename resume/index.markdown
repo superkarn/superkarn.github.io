@@ -24,8 +24,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Managed a distributed engineering team working on candidate data transfer both from Indeed to
-Partners and from Partners to Indeed.
+- Led the product from alpha stage to initial general availability stage, growing the number of business clients by 16x and delivering 4x increase in monthly data exports within the first 12 months, with expected 100x increase in monthly data exports in the next 12 months.
 - Led the product from alpha stage to initial general availability stage, growing the number of
 business clients by 16x and delivering 4x increase in monthly data exports within the first 12
 months, with expected 100x increase in monthly data exports in the next 12 months.

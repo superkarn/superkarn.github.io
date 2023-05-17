@@ -29,7 +29,6 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 business clients by 16x and delivering 4x increase in monthly data exports within the first 12
 months, with expected 100x increase in monthly data exports in the next 12 months.
 - Redesigned services to be more resilient and scale independently.
-- Incorporated 3-Legged OAuth which increased the market size.
 
 2022-03 → 2022-05  
 **Principal Software Engineer**  

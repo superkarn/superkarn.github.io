@@ -13,7 +13,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 ## Highlights
 - Architectural designs and technical documentations 
 - Full Stack Developer
-- .NET, C#, JavaScript/AngularJS/ReactJS, SQL Server, DynamoDB, Redis
+- .NET, C#, JavaScript/AngularJS/ReactJS, SQL Server, MongoDB, Redis
 - AWS, Terraform, Git, Jenkins 
 - Manage remote teams including hiring, mentoring, and evaluating team members
 - Collaborate with Product Managers on short term and long term planning

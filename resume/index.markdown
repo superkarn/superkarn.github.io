@@ -40,7 +40,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Led a distributed engineering team, working on digital multi-point inspection and service tracking software for auto dealerships.
-- Designed and successfully migrated all applications and infrastructure to AWS in 18 months.
+- Designed and successfully migrated applications and infrastructure to AWS within the requested timeline (12 months).
 - Optimized database queries, with up to 95% improvement on search features.
 - Implemented Blue-Green deployment which eliminated deployment downtime, provided quick rollback, and improved testing process.
    

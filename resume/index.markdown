@@ -24,58 +24,53 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Managed a distributed engineering team working on bi-directional candidate data transfer between Indeed and its partners
-- Led the product from alpha stage to initial general availability stage, growing the number of
-business clients by 16x and delivering 4x increase in monthly data exports within the first 12
-months, with expected 100x increase in monthly data exports in the next 12 months.
-- Redesigned services to be more resilient and scale independently.
+- Manage a distributed engineering team of 8, working on bi-directional job candidate data transfer between Indeed and its partners.
+- Lead the product from alpha stage to general availability, growing the number of business clients by 16x and delivering 4x increase in monthly data exports within the first 12 months, with expected 100x increase in monthly data exports in the next 12 months.
+- Collaborate with multiple Indeed teams to deliver a joint project where all Hosted Jobs’ features are available to Indexed Jobs, increasing potential revenues by $880M annually.
+- Collaborate with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org. 
+- Support the ATS Connectors team to build and launch 10 integrations, each increasing the market size for our product.
+- Redesign services to be more resilient (99.99% SLA) and scalable (support 100x increase in traffic).
 
 2022-03 → 2022-05  
 **Principal Software Engineer**  
 [Cox Automotive](https://www.coxautoinc.com/)  
-- Designed and architected projects
-- Provided documentations and diagrams
-- Improve system stability and reliability
+
 
 2018-02 → 2022-03  
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
-- Led a distributed engineering team
-- Designed and architected projects
-    - Cross platforms services via APIs and message queues
-    - Migration to AWS
-    - Blue/Green deployment
-    - Disaster recovery plan
-    - Single Sign-On Integration
-- Provided documentations and diagrams
-- Set up and maintained deployment pipeline
-- Improve system stability and reliability
+- Led a distributed engineering team, working on digital multi-point inspection and service tracking software for auto dealerships.
+- Designed and successfully migrated all applications and infrastructure to AWS in 18 months.
+- Optimized database queries, with up to 95% improvement on search features.
+- Implemented Blue-Green deployment which eliminated deployment downtime, provided quick rollback, and improved testing process.
    
 2016-02 → 2018-02  
 **Software Engineering Manager**  
 [Cox Automotive](https://www.coxautoinc.com/)  
-- Managed a distributed engineering team
-- Guided the team through another acquisition 
+- Managed a distributed engineering team of 9, working on digital multi-point inspection and service tracking software for auto dealerships.
+- Guided the engineering team through another acquisition.
+- Migrated infrastructure from Dealertrack data center to Xtime data center.
+- Scaled the applications from 1,500 dealers to 3,000 dealers.
 - Collaborated with product managers
-- Scaled up the applications
 - Consolidated DMS integrations 
-- Moved business logic from database layer into application layer
 
 2014-07 → 2016-02  
 **Software Engineering Manager**  
 [Dealertrack Technologies](https://www.dealertrack.com) (Acquired by Cox Automotive)
-- Managed a distributed engineering team 
-- Guided the team through an acquisition 
-- Improved system monitoring
+- Managed a distributed engineering team of 7, working on digital multi-point inspection and service tracking software for auto dealerships.
+- Guided the engineering team through an acquisition, from a startup to enterprise.
+- Migrated infrastructure from ASR Pro data center to Dealertrack data center.
+- Scaled the applications from 500 dealers to 1,500 dealers.
+- Improved system monitoring by integrating with New Relic alerts, reducing MTTR.
 - Adopted Scaled Agile process
 
 2012-09 → 2014-07  
 **Chief Technology Officer**  
 [ASR Pro](https://www.asrpro.com) (Acquired by Dealertrack)  
-- Built a remote-first culture
-- Assembled and managed a distributed engineering team
 - Designed and architected projects
-- Supervised outsourced engineering teams and contractors
+- Built a remote-first culture
+- Hired and managed a distributed engineering team
+- Led the team and the company through an acquisition 
 
 2008-11 → 2012-09  
 **Lead Software Engineer**  

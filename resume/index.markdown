@@ -28,7 +28,7 @@ Accomplished Software Engineer with managerial background.   Spent many years wo
 - Lead the product from alpha stage to general availability, growing the number of business clients by 16x and delivering 4x increase in monthly data exports within the first 12 months, with expected 100x increase in monthly data exports in the next 12 months.
 - Collaborate with multiple Indeed teams to deliver a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
 - Collaborate with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.
-- Support the ATS Connectors team to build and launch 10 ATS integrations, each increasing the total addressable market size by 5-10%.
+- Support the ATS Connectors team to build and launch 10 ATS integrations, each increasing the total addressable market size by 5+%.
 - Redesign services to be more resilient (99.99% SLA) and scalable (support 100x increase in traffic).
 
 2022-03 → 2022-05  
@@ -56,30 +56,23 @@ Scaled an automotive dealership digital multi-point inspection and service track
 2012-09 → 2014-07  
 **Chief Technology Officer**  
 [ASR Pro](https://www.asrpro.com) (Acquired by Dealertrack)  
-- Designed and architected projects
-- Built a remote-first culture
-- Hired and managed a distributed engineering team
-- Led the team and the company through an acquisition 
+Led the engineering department of a startup, building one of the first fully electronic vehicle multi-point inspection software.  Introduced and fostered a remote-first culture.  Coordinated with Product, Sales, and Support to ensure the success of the company, which eventually ended with an acquisition.
+Even though the software had changed names through multiple acquisitions, it remained one of the best in its class.
 
 2008-11 → 2012-09  
 **Lead Software Engineer**  
 [AutoLoop](https://www.autoloop.com)  
-- Developed a digital multipoint inspection and service tracking software for auto dealerships
-- Created RESTful and SOAP APIs
-- Integrated with third party services
+Developed a digital multi-point inspection and service tracking software for auto dealerships.
 
 2007-01 → 2008-05  
 **Software Engineer**  
 [Super Stock](https://www.superstock.com)  
-- Maintained and improved stock photography ecommerce site
-- Updated web application from classic ASP to ASP .NET
+Maintained and improved a stock photography e-commerce site.
 
 2005-05 → 2007-01  
 **Web Developer**  
 [Clayton Kendall](https://www.claytonkendall.com)
-- Maintained and improved branding ecommerce site 
-- Developed a framework for branding customizations
-- Developed integrations with third party accounting software
+Maintained and improved an e-commerce site.
 
 
 ## Education

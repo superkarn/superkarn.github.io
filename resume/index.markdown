@@ -7,7 +7,7 @@ Karn Ratana
 [PDF](../assets/resume.pdf)  
 
 
-An accomplished software engineering leader with 17+ years of software development experience, 7 of which were managing distributed teams. Strong focus on delivering quality products on schedule, utilizing the best technologies, and helping team members excel. Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
+A software engineering leader with 8 years of management experience and 18 years of software development.  Strong focus on delivering quality products on schedule, utilizing the best technologies, and helping team members excel. Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
 
 
 ## Highlights
@@ -24,9 +24,10 @@ An accomplished software engineering leader with 17+ years of software developme
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Manage a distributed engineering team of 8, working on bi-directional job candidate data transfer between Indeed and its partners.
-- Lead the product from alpha stage to general availability, growing the number of business clients by 16x and delivering 4x increase in monthly data exports within the first 12 months, with expected 100x increase in monthly data exports in the next 12 months.
-- Collaborate with multiple Indeed teams to deliver a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
+- Manage a distributed engineering team of 10 (8 full time + 2 loaned engineers).
+- Lead the team on a joint project on delivering new features (e.g. syncing candidate data from Sourcing product) in preparation for new subscription model, increasing revenues.
+- Lead the team on a project to integrate with Indeed's top ATS partner (over 4 million jobs).
+- Support a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
 - Collaborate with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.
 
 

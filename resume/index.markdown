@@ -24,8 +24,8 @@ A software engineering leader with 8 years of management experience and 18 years
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Manage a distributed engineering team of 10 (8 full time + 2 loaned engineers), delivering multiple high priority projects simultaneously, shifting resources based on business needs.
-- Lead the team on a project to integrate with Indeed's largest ATS partner (over 5.4 million jobs) including inbound (both event based and polling based) and outbound (public API) syncs.
+- Manage a fully remote team of 10 engineers, working with 4 PMs, and delivering multiple high priority projects simultaneously.
+- Lead the team on a project to integrate with Indeed's largest ATS partner (5.4+ million jobs) including inbound (both event based and polling based) and outbound (public API) syncs.
 - Lead the team on a joint project with multiple orgs on delivering new features in preparation for new subscription model.
 - Support a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
 - Collaborate with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.

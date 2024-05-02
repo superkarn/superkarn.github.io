@@ -7,7 +7,7 @@ Karn Ratana
 [PDF](../assets/resume.pdf)  
 
 
-A software engineering leader with 8 years of management experience and 18 years of software development.  Strong focus on delivering quality products on schedule, utilizing the best technologies, and helping team members excel. Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
+A software engineering leader with 9 years of management experience and 19 years of software development.  Strong focus on delivering quality products on schedule, utilizing the best technologies, and helping team members excel. Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
 
 
 ## Highlights
@@ -24,11 +24,12 @@ A software engineering leader with 8 years of management experience and 18 years
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Manage a fully remote team of 10 engineers, working with 4 PMs, and delivering multiple high priority projects simultaneously.
-- Lead the team on a project to integrate with Indeed's largest ATS partner (5.4+ million jobs) including inbound (both event based and polling based) and outbound (public API) syncs.
-- Lead the team on a joint project with multiple orgs on delivering new features in preparation for new subscription model.
-- Support a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
-- Collaborate with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.
+- Managed a fully remote team of 10 engineers, working with multiple PMs, and delivering multiple high priority projects simultaneously.
+- Buildt bi-directional candidate data integrations to and from ATS partners, which became the foundation for multiple Indeed features and offerings.
+- Scaled the integrations with 3x increase in traffic in the last 12 months with faster growth expected as more integrations go live.
+- Led the team on a joint project with multiple orgs on delivering new features in preparation for new subscription model.
+- Supported a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
+- Collaborated with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.
 
 
 2022-03 → 2022-05  

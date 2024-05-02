@@ -25,7 +25,7 @@ A software engineering leader with 9 years of management experience and 19 years
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
 - Managed a fully remote team of 10 engineers, working with multiple PMs, and delivering multiple high priority projects simultaneously.
-- Buildt bi-directional candidate data integrations to and from ATS partners, which became the foundation for multiple Indeed features and offerings.
+- Built bidirectional candidate data integrations to and from ATS partners, which became the foundation for multiple Indeed features and offerings.
 - Scaled the integrations with 3x increase in traffic in the last 12 months with faster growth expected as more integrations go live.
 - Led the team on a joint project with multiple orgs on delivering new features in preparation for new subscription model.
 - Supported a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.

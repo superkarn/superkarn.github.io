@@ -6,17 +6,17 @@ title: Resume
 Karn Ratana  
 [PDF](../assets/resume.pdf)  
 
+A software engineering leader with 9+ years of experience in managing distributed teams and 19 years of software development expertise, driven by a passion for delivering high-quality products on time and empowering team members to excel. A transformational problem-solver with a strong focus on leveraging technology to drive business outcomes, optimizing workflows, and cultivating high-performing teams in fast-paced environments.
 
-A software engineering leader with 9 years of management experience and 19 years of software development.  Strong focus on delivering quality products on schedule, utilizing the best technologies, and helping team members excel. Experienced with small startup cultures and large corporation processes, including transitions through acquisitions.
 
 
 ## Highlights
 - Collaborated with wide range of stakeholders such as project managers, engineering directors, UI/UX, clients, and third-party partners
-- Coordinated cross team projects
-- Managed remote teams including hiring, mentoring, and evaluating team members
+- Coordinated cross-team projects
+- Managed remote teams, including hiring, mentoring, and evaluating team members
 - Architectural designs and technical documentations
 - Full stack developer background
-- AWS (ASG, Beanstalk, Dynamo, Kinesis, Lambda, Lex, SNS, SQS, etc.), Terraform, Jenkins, Git	
+- AWS services, Terraform, Jenkins, Git
 
 
 
@@ -24,28 +24,28 @@ A software engineering leader with 9 years of management experience and 19 years
 2022-05 → Current  
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
-- Managed a fully remote team of 10 engineers, working with multiple PMs, and delivering multiple high priority projects simultaneously.
-- Built bidirectional candidate data integrations to and from ATS partners, which became the foundation for multiple Indeed features and offerings.
-- Scaled the integrations with 3x increase in traffic in the last 12 months with faster growth expected as more integrations go live.
-- Led the team on a joint project with multiple orgs on delivering new features in preparation for new subscription model.
-- Supported a joint project where all Hosted Jobs features are available to Indexed Jobs, increasing potential revenues by $880M annually.
-- Collaborated with multiple Indeed teams in a joint effort to consolidate duplicate features between Enterprise org and SMB org, leading to labor and infrastructure cost savings.
+- Led a distributed engineering team of 10 members, collaborating with senior project managers to deliver complex, high-priority projects across multiple initiatives.
+- Designed and oversaw the implementation of a high-availability service replacing a legacy system, which processed over 9 million user requests daily. The solution prioritized scalability, reliability, and extensibility to meet evolving demands.
+- Developed bi-directional data exchange solutions with top ATS (Applicant Tracking System) providers, laying the groundwork for numerous Indeed features and services.
+- Successfully scaled the integrations, achieving a 300% year-over-year growth rate in traffic, with projected further acceleration as additional integrations come online.
+- Contributed to the development of a strategic integration between Hosted Jobs and Indexed Jobs, increasing potential revenues by $880M annually.
+- Collaborated with multiple Indeed teams in a joint effort to eliminate duplicate features between Enterprise org and SMB org, leading to significant labor and infrastructure cost savings.
 
 
 2022-03 → 2022-05  
 **Principal Software Engineer**  
 [Cox Automotive](https://www.coxautoinc.com/)  
-- Led a distributed engineering team, working on digital multi-point inspection and service tracking software for auto dealerships.
-- Implemented Blue-Green deployment which eliminated deployment downtime, provided quick rollback, and improved testing process.
+- Led a distributed engineering team to develop cutting-edge digital multi-point inspection and service tracking solutions for the automotive industry.
+- Successfully implemented Blue-Green deployment, eliminating deployment downtime and streamlining testing processes.
 
 
 2018-02 → 2022-03  
 **Lead Technical Architect**  
 [Cox Automotive](https://www.coxautoinc.com/)  
 - Led a distributed engineering team by providing technical guidance, mentoring software engineers, and fostering innovation.
-- Collaborated with project managers, product and engineering directors, and UI/UX designers.
-- Designed and successfully migrated applications and infrastructure to AWS within the requested timeline (12 months).
-- Optimized database queries, with up to 95% improvement on search features.
+- Collaborated closely with cross-functional teams, including project managers, product leaders, and UI/UX designers, to deliver high-quality solutions.
+- Led the successful migration of applications and infrastructure to AWS within a 12-month timeline, ensuring seamless transition for users.
+- Optimized database queries, achieving a significant 95% improvement on search features.
 
    
 2016-02 → 2018-02  

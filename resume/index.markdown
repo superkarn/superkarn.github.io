@@ -25,7 +25,7 @@ A software engineering leader with 9+ years of experience in managing distribute
 **Software Engineering Manager**  
 [Indeed](https://www.indeed.com/)  
 - Led a distributed engineering team of 10 members, collaborating with senior project managers to deliver complex, high-priority projects across multiple initiatives.
-- Designed and oversaw the implementation of a high-availability service replacing a legacy system, which processed over 9 million user requests daily. The solution prioritized scalability, reliability, and extensibility to meet evolving demands.
+- Designed and oversaw the implementation of a high-availability service replacing a legacy system, which processed over 9 million job applications daily. The solution prioritized scalability, reliability, and extensibility to meet evolving demands.
 - Developed bi-directional data exchange solutions with top ATS (Applicant Tracking System) providers, laying the groundwork for numerous Indeed features and services.
 - Successfully scaled the integrations, achieving a 300% year-over-year growth rate in traffic, with projected further acceleration as additional integrations come online.
 - Contributed to the development of a strategic integration between Hosted Jobs and Indexed Jobs, increasing potential revenues by $880M annually.

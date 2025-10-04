@@ -49,4 +49,4 @@ In 2015, Dealertrack [merged with Cox Automotive](https://www.coxautoinc.com/new
 
 <img align="left" width="50" style="margin:0px 10px 0px 0px;"
   src="../assets/indeed-logo.webp">
-In 2022, I joined [Indeed](https://www.indeed.com) as a software engineering manager, working on bi-directional job candidate data transfer between Indeed and its partners.
+In 2022, I joined [Indeed](https://www.indeed.com) as a software engineering manager, working within the Interop organization.  I led the design and rollout of multiple high profile projects such as job application delivery and candidate data ingestion, providing the foundation for other Indeed features including the new AI initiatives.
